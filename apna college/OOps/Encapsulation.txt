@@ -1,0 +1,11 @@
+Encapsulation
+
+When we read Encapsulation we hear the capsule and the working and defination is also similar 
+
+Encapsulation is wrapping up of data & member function in a single unit class class.
+
+like wrap the data/properties and members function in one class 
+
+which we already done 
+
+code in class/class_syntax.cpp

@@ -1,0 +1,8 @@
+OOps is very in the C++ as compare to DSA 
+
+There are four main pillors of the OOps 
+1.Encapsulation
+2.Abstraction
+3.Inheritance 
+4.Polymorphism
+
