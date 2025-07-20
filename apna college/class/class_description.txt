@@ -1,0 +1,33 @@
+--oops are very usefull in c++
+-because as we use STL vector is use the oops as the concept in defined internally in oops classes
+-and it is very usefull for the real life examples and problems 
+
+Here we study (Classes and objects)
+objects - objects are the entities in the real world 
+classes - classes is like a blueprint of these entities 
+
+real world example - 
+1.In the car factory there is a blueprint of the car 
+  so they can create the car like fortuner easily with the help of 
+  that blue print 
+
+  like in the blue print they define properties/attribute 
+  color,design,speed,model,name;
+
+  so they can easily create new car 
+
+2.Suppose in the college there is a class called account for the teacher 
+  In which there is a information of the teacher like 
+  name,dept,subject,salary these are the properties/attributes of the class account 
+
+  and also there is a method defined in the class and we can say the function defined 
+  in the class or also known as member function
+
+  (change dept) in which anyone from the system can change the dept easily
+
+3.In the amazon there is a blueprint for the every product 
+  in which they define the properties or attributes of the product 
+  like name,price,description,discount 
+
+  class launch new products with the help of this blueprint easily
+

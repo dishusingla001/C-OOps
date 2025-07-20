@@ -1,0 +1,10 @@
+Access modifiers 
+There are three type of the access modifiers 
+1.private - data & methods accessible inside the class only 
+2.public - data & mehtods accessible to everyone and anywhere 
+3.protected - data & members accessible inside class & to its derived class 
+
+
+-By default the class is defined private  
+
+-Mainly the protected is used in the inheritance as we defined any class in the another child class so we did not use private because with private we did not inherit the properties or function in the child class so we use protected
