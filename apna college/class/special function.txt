@@ -1,0 +1,6 @@
+We did not access the private attributes in the main 
+-So we use some special function called getter and setter 
+ 
+-Setter -> we use setter to set the value of the private attribute 
+
+syntax in the special_function.cpp
