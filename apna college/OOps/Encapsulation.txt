@@ -6,6 +6,10 @@ Encapsulation is wrapping up of data & member function in a single unit class cl
 
 like wrap the data/properties and members function in one class 
 
+and we create a capsule and wrtie in the class 
+
 which we already done 
 
 code in class/class_syntax.cpp
+
+27.05
