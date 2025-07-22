@@ -1,0 +1,9 @@
+this is the special keyword or we can say special pointer in c++ that points to the current object  
+
+this-> prop is same as *(this).prop
+
+what is the need of this keyword ?
+-Ans = when we have same name of arguments as well as same name of variable the computer is confused which one is what so then we use (this->var) to make it clear and identify 
+
+and more explain the code 
+this_keyword.cpp
