@@ -1,0 +1,1 @@
+Copy Constructor is the special Constructor which copy the properties of one object into another 
