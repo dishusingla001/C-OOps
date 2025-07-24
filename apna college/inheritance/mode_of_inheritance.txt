@@ -1,0 +1,12 @@
+There are three mode of inheritance 
+-Private Mode 
+-Protected Mode
+-Public Mode 
+
+-in the private mode the inheritance is not possible 
+
+-public mode is always inheritad 
+and for the private it become private and then for the public is become public and for the protected mode is become protected
+
+
+-in the protected mode the the derived class inherit the properties privately 
