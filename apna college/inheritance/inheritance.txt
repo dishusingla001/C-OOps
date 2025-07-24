@@ -1,0 +1,14 @@
+Inheritance = When properties & member funciton of base class are passed on the derived class
+
+for example - 
+
+There are two classes class a and the class b 
+
+class b inherit the properties from class a 
+
+and in this class a is known as the parent class 
+and the class b is known as the child class and also called derived class 
+
+--Why we use inheritance ? 
+to reuse the code we use the inheritance and suppose some code is written in the class A and we want to use it in the class B so we did not need to rewrite the same code in the class B we can use the concept of inheritance 
+
