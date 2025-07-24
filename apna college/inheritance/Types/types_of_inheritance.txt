@@ -1,0 +1,24 @@
+Types of Inheritance 
+
+-Single Inheritance 
+Parent -> Child
+
+-Mulitlevel Inheritance
+Parent -> Parent -> Child
+
+-Mulitple Inheritance 
+Parent->
+           -> Child 
+Parent->
+
+-Hierarchial Inheritance
+         -> Child
+Parent-> 
+         -> Child
+
+-Hybrid Inheritance
+          -> Child
+Person -> 
+           -> Child -> Child -> Child
+           
+            
